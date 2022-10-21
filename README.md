@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vbarretoo3
+- 👀 I’m interested in creating and developing my portifolio and learnign more skills
+- 🌱 I’m currently learning React and other JavaScript Frameworks as well as getting my python skilss better
+- 💞️ I’m looking to collaborate on projects that will challenge me to learn new tools and to perfect the ones I know and in projcts that im passionate about
+- 📫 You can reach me on my email at vbarretoo@hotmail.com
